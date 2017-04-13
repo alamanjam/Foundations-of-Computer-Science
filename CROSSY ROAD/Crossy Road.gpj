@@ -1,0 +1,66 @@
+!1157;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SCU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+S+U0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012-Run\012ADD_EXE_PATH==Y\012
+SyU0PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!107;u
+a0	b68	c255	f%\011Crossy Road.jar	g%\011Crossy Road.zip	hManifest-Version\0111.0\011Main-Class\011MenuPanel!522;g
+%\011ByScore.java
+%\011Pause.java
+%\011CharPanel.java
+%\011Karel.java
+%\011Player.java
+%\011HSPanel.java
+%\011LevelPanel.java
+%\011Road.java
+%\011JTextFieldLimit.java
+%\011Vehicle.java
+%\011SettingsPanel.java
+%\011Crossy Road.gpj
+%\011Fish.java
+%\011GamePanel.java
+%\011House.java
+%\011Character.java
+%\011Chicken.java
+%\011%u%u10th Grade%sAPCS%s06 Stacks _ Queues%sMcRonald.java
+%\011BackObject.java
+%\011Pigeon.java
+%\011VehicleC.java
+%\011MenuPanel.java
+%\011RightVehicle.java
+%\011ContentPanel.java
+%\011EOGPanel.java
+!522;f
+%\011ByScore.java
+%\011Pause.java
+%\011CharPanel.java
+%\011Karel.java
+%\011Player.java
+%\011HSPanel.java
+%\011LevelPanel.java
+%\011Road.java
+%\011JTextFieldLimit.java
+%\011Vehicle.java
+%\011SettingsPanel.java
+%\011Crossy Road.gpj
+%\011Fish.java
+%\011GamePanel.java
+%\011House.java
+%\011Character.java
+%\011Chicken.java
+%\011%u%u10th Grade%sAPCS%s06 Stacks _ Queues%sMcRonald.java
+%\011BackObject.java
+%\011Pigeon.java
+%\011VehicleC.java
+%\011MenuPanel.java
+%\011RightVehicle.java
+%\011ContentPanel.java
+%\011EOGPanel.java
